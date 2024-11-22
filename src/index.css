@@ -5,5 +5,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #b6d5e2;
+  /* background-color: #b6d5e2; */
+  /* #b4b6b8 */
+  background-image: linear-gradient(#ffffff 50%, #b4b6b8 50%, #b4b6b8);
 }
